@@ -5,7 +5,7 @@ typedef struct vec{
     double *a[2]; //First element is person's ID, second is day they met.
                //First element is Station numger second is the length/ DangerVal
     int cap;
-    int cur;
+    int cur;//present location
 }vec;
 
 void init_vec(vec *v);  //initialises the vector
