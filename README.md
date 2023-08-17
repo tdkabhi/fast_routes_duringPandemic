@@ -1,4 +1,4 @@
-## DSA Mini project - Group 10
+## DSA Mini project 
 
 ### General idea
 Declare a struct person array that contains a vector of pairings of persons the person meets and the day they meet, as well as information about their present location, current status, and, if relevant, the day they tested positive. would be initialised to -1 by default.
